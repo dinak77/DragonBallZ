@@ -7,6 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
+  public Home: string = "Home";
+  public Characters: string = "Personnages";
+  public Families: string = "Familles";
+  public Places: string = "Lieux";
+  public Movies: string = "Films";
+  public Gallery: string = "Galerie";
+  public Contact: string = "Contact";
+
   constructor() { }
 
   ngOnInit() {

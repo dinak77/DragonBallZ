@@ -1,0 +1,14 @@
+.d-inline-block {
+    margin-right: 50px;
+}
+
+article .collapse a {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.bg-light {
+    background: linear-gradient(to right, rgba(241, 72, 0, 0.5), rgba(241, 72, 0, 0.5)), linear-gradient(to left, rgba(241, 72, 0, 0) 200px, #f14800 471px) !important;
+}
